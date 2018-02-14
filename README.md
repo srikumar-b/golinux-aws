@@ -16,8 +16,8 @@ docker build . -t golinux-aws
 ```
 # Tag
 ```
-docker tag goinux-aws sbonda/golang-aws:<tag>
+docker tag golinux-aws sbonda/golinux-aws:<tag>
 ```
 # Push
 ```
-docker push sbonda/golang-aws:<tag>
+docker push sbonda/golinux-aws:<tag>
